@@ -1,11 +1,11 @@
-<h1 align="center">SHADOW MUSIC</h1>
+<h1 align="center">Isᴀʙᴇʟʟᴀ Mᴜsɪᴄ</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [MARSHALX TGCALLS](https://github.com/MarshalX/tgcalls)
-### Available on telegram as [@Mr_Shadow_Robot](https://t.me/Mr_Shadow_robot)
+### Available on telegram as [@Miss_Isabella_Robot](https://t.me/Miss_Isabella_Robot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/66822dc08454b021fd2cf.png">
+  <img src="https://telegra.ph/file/ab9faab297e4f19148a60.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
@@ -25,10 +25,10 @@
 ## 🚀 Deployment
 
 ### 💜 Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamOfShadow/ShadowMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Thilinaweerasekara2003/Is-M-s-)
 
 ### 💜 Railway
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Deshadeeth-Thisarana/ShadowMusic&envs=SESSION_NAME,BOT_TOKEN,BOT_USERNAME,LOG_CHANNEL,BOT_NAME,SUPPORT_GROUP,PROJECT_NAME,ARQ_API_KEY,ASSISTANT_NAME,BG_IMAGE,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Thilinaweerasekara2003/Is-M-s-&envs=SESSION_NAME,BOT_TOKEN,BOT_USERNAME,LOG_CHANNEL,BOT_NAME,SUPPORT_GROUP,PROJECT_NAME,ARQ_API_KEY,ASSISTANT_NAME,BG_IMAGE,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
 
 Get pyrogram (p)  `SESSION` from here:
 
