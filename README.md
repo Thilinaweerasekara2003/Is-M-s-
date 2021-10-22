@@ -37,8 +37,8 @@ Get pyrogram (p)  `SESSION` from here:
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/deshadeeth-thisarana/ShadowMusic
-$ cd ShadowMusic
+$ git clone https://github.com/Thilinaweerasekara2003/Is-M-s-
+$ cd Isᴀʙᴇʟʟᴀ Mᴜsɪᴄ
 # Upgrade sources
 # Install All Requirements 
 $ pip3 install -r requirements.txt
