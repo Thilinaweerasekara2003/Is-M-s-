@@ -1,5 +1,5 @@
-# Shadow Music (Telegram bot project)
-# Copyright (C) 2021 Deshadeeth Thisarana
+# Isabella Music (Telegram bot project)
+# Copyright (C) 2021 Thilina Weerasekara
 # Copyright (C) 2021  TheHamkerCat (Python_ARQ)
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as
@@ -749,7 +749,7 @@ async def play(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="▶️ <b>Playing</b> here the song requested by {} via Shadow Music 😎".format(
+            caption="▶️ <b>Playing</b> here the song requested by {} via Isabella Music ❤️".format(
                 message.from_user.mention()
             ),
         )
@@ -905,7 +905,7 @@ async def ytplay(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="▶️ <b>Playing</b> here the song requested by {} via Shadow Music 😎".format(
+            caption="▶️ <b>Playing</b> here the song requested by {} via Isabella Music ❤️".format(
                 message.from_user.mention()
             ),
         )
@@ -1305,7 +1305,7 @@ async def lol_cb(b, cb):
             chat_id,
             photo="final.png",
             reply_markup=keyboard,
-            caption=f"▶️ <b>Playing</b> here the song requested by {r_by.mention} via Shadow Music 😎",
+            caption=f"▶️ <b>Playing</b> here the song requested by {r_by.mention} via Isabella Music ❤️",
         )
 
         os.remove("final.png")
