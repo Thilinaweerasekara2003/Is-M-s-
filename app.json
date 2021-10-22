@@ -1,9 +1,9 @@
 {
-  "name": "ShadowMusic",
-  "logo": "https://telegra.ph/file/2adf03bd079a0243aafac.png",
+  "name": "Isabella Music ",
+  "logo": "https://telegra.ph/file/ab9faab297e4f19148a60.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/TeamOfShadow/ShadowMusic",
+  "repository": "https://github.com/Thilinaweerasekara2003/Is-M-s-",
   "stack": "heroku-20",
   "buildpacks": [
    {
@@ -57,7 +57,7 @@
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
       "required": false,
-      "value": "https://telegra.ph/file/d9176dc83f25d94c266bc.png"
+      "value": "https://telegra.ph/file/ab9faab297e4f19148a60.jpg"
     },     
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
@@ -80,7 +80,7 @@
     "SUDO_USERS": {
       "description": "List of user IDs counted as admin everywhere (separated by space).",
       "required": true,
-      "value": "1041727415 1578642178"
+      "value": "1673820526  1377217980"
     },
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes).",
