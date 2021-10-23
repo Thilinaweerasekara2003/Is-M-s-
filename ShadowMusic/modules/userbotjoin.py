@@ -1,6 +1,5 @@
-# Shadow Music (Telegram bot project )
-# Copyright (C) 2021 Deshadeeth Thisarana
-
+# Isabella Music (Telegram bot project )
+# Copyright (C) 2021 Thilina Weerasekara
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as
 # published by the Free Software Foundation, either version 3 of the
@@ -54,7 +53,7 @@ async def addchannel(client, message):
         print(e)
         await message.reply_text(
             f"<b>🛑 Flood Wait Error 🛑 \n User {user.first_name} couldn't join your group due to heavy join requests for userbot! Make sure user is not banned in group."
-            "\n\nOr manually add @Shadow_Helper to your Group and try again</b>",
+            "\n\nOr manually add @Galaxyassistantm  to your Group and try again</b>",
         )
         return
     await message.reply_text(
@@ -123,7 +122,7 @@ async def addcchannel(client, message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "Shadow Helper"
+        user.first_name = "Galaxyassistantm "
 
     try:
         await USER.join_chat(invitelink)
@@ -137,7 +136,7 @@ async def addcchannel(client, message):
         print(e)
         await message.reply_text(
             f"<b>🛑 Flood Wait Error 🛑 \n User {user.first_name} couldn't join your channel due to heavy join requests for userbot! Make sure user is not banned in channel."
-            "\n\nOr manually add @Shadow_Helper to your Group and try again</b>",
+            "\n\nOr manually add @Galaxyassistantm  to your Group and try again</b>",
         )
         return
     await message.reply_text(
